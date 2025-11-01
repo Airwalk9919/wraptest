@@ -1,0 +1,34 @@
+{
+    "code": "RPT-251101-005138",
+    "vehicle": {
+        "plate": "guhih",
+        "brand": "ihnkmkm",
+        "model": "gjuh"
+    },
+    "inspector": {
+        "name": "nnnki"
+    },
+    "datetime": "2025-11-01T00:51:38+07:00",
+    "panels": [],
+    "checklist": [
+        {
+            "item": "Edges sealed",
+            "ok": false,
+            "notes": ""
+        },
+        {
+            "item": "No dust under film",
+            "ok": false,
+            "notes": ""
+        },
+        {
+            "item": "No edge-lift",
+            "ok": false,
+            "notes": ""
+        }
+    ],
+    "summary": {
+        "overall": "",
+        "recommendation": ""
+    }
+}
